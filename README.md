@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou o Felipe Cabrera 👋
+## Sou Programador desde 2007.
 
-<!--
-**felipe-cabrera/felipe-cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Um pouco mais sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Eu atualmente estou trabalhando como Professor na [ByLearn](https://www.bylearn.com.br)
+- 🤔 Dúvidas de Programação? Entre em contato comigo e será um prazer te ajudar!
+- 📫 Contato: [felipe@bylearn.com.br](mailto:felipe@bylearn.com.br)
+- 😄 Interesses: Python, Inteligência Artificial, Desenvolvimento de Jogos, C# e Tecnologia em Geral.
+- ⚡ Fun fact: Atualmente tenho 11 gatos e 1 furão (_Shura_ ❤)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills: 
+
+https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-green
+https://img.shields.io/badge/Django-⭐⭐⭐⭐⭐-blue
+
+### Status:
+
+![Meu Status](https://github-readme-stats.vercel.app/api?username=felipe-cabrera&show_icons=true)

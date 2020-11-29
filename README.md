@@ -14,7 +14,3 @@
 ![badge-python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-green)
 
 ![badge-django](https://img.shields.io/badge/Django-⭐⭐⭐⭐⭐-blue)
-
-### Status:
-
-![Meu Status](https://github-readme-stats.vercel.app/api?username=felipe-cabrera&show_icons=true)
